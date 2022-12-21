@@ -1,0 +1,25 @@
+img {
+    border-width: 2px;
+    border-radius: 35px;
+    width: 162px;
+    color: solid rgb(4, 4, 75);
+}
+img:hover {
+    border: 1px solid black;
+    box-shadow: 3px 7px 12px 1px rgba(0,0,0,0.75);
+}
+h1 {
+    color: rgb(0, 0, 82);
+}
+h2 {
+    border-right: 50px;
+    color: grey;
+}
+h2:hover{
+    border: 1px solid black;
+    margin-right: 1650px;
+    box-shadow: 3px 7px 12px 1px rgba(0,0,0,0.75);
+}
+div {
+     margin: 4px;
+}
